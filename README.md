@@ -1,76 +1,76 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<h3 align="center">Ruby - Capstone Project</h3>
 
-# Project Name
+<div align="center">
 
-> One paragraph statement about the project.
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/udberg/NearbyRestaurants/issues)
+[![GitHub2 Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/udberg/NearbyRestaurants/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Made By](https://img.shields.io/badge/Made%20By-Kevin%20Alves-brightgreen)](https://github.com/udberg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/juduak_)
 
-![screenshot](./app_screenshot.png)
+</div>
 
-Additional description about the project and its features.
+---
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## 📝 Content
+<p align="center">
+<a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#installing">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#built_using">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#author">Authors</a>
+</p>
 
 
-To get a local copy up and running follow these simple example steps.
+## 🧐 About <a name = "about"></a>
+<h3 align="center"> 
+This is a Telegram Bot project, which shows users the restaurants closest to them at anu given time. Here's the project specification: https://www.notion.so/Build-your-own-bot-ebd0d7ac5da240e5987720bdc83f38fa
+</h3>
 
-### Prerequisites
+<p align="center">
+  <a href="" rel="noopener">
+  <img src="./img/" alt="Project Screenshot"></a>
+</p>
+---
 
-### Setup
+## 🔧 Built with<a name = "built_using"></a>
 
-### Install
+- [Ruby](https://www.ruby-lang.org/) - Ruby
 
-### Usage
+### 🛠 Installing <a name = "installing"></a>
 
-### Run tests
+```
+- Clone or download this repository;
+- Unpack (if downloaded);
+- If you dont have a Telegram API Keys, you will need to apply for it [here]: (https://t.me/botfather)
+- run 'bundle install' before run the app
+- in your terminal, go to the bin folder and type 'ruby main.rb';
 
-### Deployment
 
+```
+## ✒️  Autor <a name = "author"></a>
 
+👤 **Uduak John**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Github: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- Linkedin: [@Uduak John](https://www.linkedin.com/in/juduak/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/udberg/NearbyRestaurants/issues).
 
-## Show your support
+
+## 👍 Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is free to use as learning purposes. For any external content (e.g. logo, images, ...), please contact the proper author and check their license of use.
+
+
+<small>Template made by <a href='https://twitter.com/juduak_'>Uduak John</a></small>
