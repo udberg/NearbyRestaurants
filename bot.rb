@@ -1,7 +1,8 @@
 require 'telegram/bot'
 require 'google_places'
+require 'dotenv/load'
 
-token = '1575408463:AAEcC7qwpT-7Mqm2sCuU6UGfBP9r4_s0Wj4'
+token = ENV["TOKEN"]
 @googleClient = GooglePlaces::Client.new('YOUR-GOOGLE-PLACES-API-TOKEN')
 
 Telegram::Bot::Client.run(token) do |bot|
