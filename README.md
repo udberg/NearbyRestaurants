@@ -65,12 +65,12 @@ Feel free to check the [issues page](https://github.com/udberg/NearbyRestaurants
 
 ## 👍 Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! They're free...
 
 
 ## 📝 License
 
-This project is free to use as learning purposes. For any external content (e.g. logo, images, ...), please contact the proper author and check their license of use.
+This project is free to use as learning purposes. I share my project under GPL License, so everybody can reuse and modify it. For any external content (e.g. logo, images, ...), please contact the proper author and check their license of use. Thank you!
 
 
 <small>Template made by <a href='https://twitter.com/juduak_'>Uduak John</a></small>
