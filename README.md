@@ -1,4 +1,4 @@
-<h3 align="center">Ruby - Capstone Project</h3>
+<h3 align="center">Telegram Bot - NearbyRestaurants</h3>
 
 <div align="center">
 
