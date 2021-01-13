@@ -27,10 +27,7 @@
 This is a Telegram Bot project, which shows users the restaurants closest to them at anu given time. Here's the project specification: https://www.notion.so/Build-your-own-bot-ebd0d7ac5da240e5987720bdc83f38fa
 </h3>
 
-<p align="center">
-  <a href="" rel="noopener">
-  <img src="./img/" alt="Project Screenshot"></a>
-</p>
+
 ---
 
 ## 🔧 Built with<a name = "built_using"></a>
@@ -44,7 +41,7 @@ This is a Telegram Bot project, which shows users the restaurants closest to the
 - Unpack (if downloaded);
 - If you dont have a Telegram API Keys, you will need to apply for it [here]: (https://t.me/botfather)
 - run 'bundle install' before run the app
-- in your terminal, go to the bin folder and type 'ruby main.rb';
+- in your terminal, go to the bin folder and type 'ruby bot.rb';
 
 
 ```
